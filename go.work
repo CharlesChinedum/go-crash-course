@@ -1,0 +1,13 @@
+go 1.21.1
+
+use ./01_hello
+
+use ./02_vars
+
+use ./03_packages
+
+use ./04_functions
+
+use ./05_arrays_slices
+
+use ./06_conditionals
