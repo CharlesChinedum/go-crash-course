@@ -27,4 +27,12 @@ func main() {
 	}
 
 	// switch
+	switch color {
+	case "red":
+		fmt.Println("color is red")
+	case "blue":
+		fmt.Println("color is blue")
+	default:
+		fmt.Println("Color is not red or blue")
+	}
 }

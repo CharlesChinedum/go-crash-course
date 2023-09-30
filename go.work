@@ -11,3 +11,7 @@ use ./04_functions
 use ./05_arrays_slices
 
 use ./06_conditionals
+
+use ./07_loops
+
+use ./08_maps
