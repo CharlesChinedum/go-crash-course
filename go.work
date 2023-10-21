@@ -17,3 +17,9 @@ use ./07_loops
 use ./08_maps
 
 use ./09_range
+
+use ./10_pointers
+
+use ./11_closures
+
+use ./12_structs
